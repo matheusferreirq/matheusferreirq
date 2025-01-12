@@ -19,10 +19,21 @@
 - 💫​ Fun facts: I´m an **After Effects** editor, focused on 3D and motion graphic elements, which favors my learning in other editing softwares. <p align="center"><img src="https://github.com/user-attachments/assets/c89d97ba-8768-4d12-9a39-22e3bc6a055f" width="20" height="20"/>
 
 <br/>
+<br/>
+
+<p align="center">
+  <img width="250" height="46" src="https://github.com/user-attachments/assets/5e138ff3-b812-4536-b5f8-01dd9ece251a">
+</p>
+
+- Special shotout to my buddy [**Heitor**](), ...... student at Inteli, who will be joining me on this new stage of my life!
+
+<br/>
+<br/>
 
 <p align="center">
   <img width="195" height="46" src="https://github.com/user-attachments/assets/53e55bb2-1516-4fd9-8694-c52b19071555">
 </p>
+
 
 <p align="center">
 <a href="https://linkedin.com/in/matheus-ferreira-da-silva-a13a75342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-ferreira-da-silva-a13a75342" height="30" width="40" /></a>
