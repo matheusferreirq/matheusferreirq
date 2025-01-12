@@ -8,7 +8,7 @@
 
 - ​​​💬​ Reach me on **matheus.silva@sou.inteli.edu.br**
 
-- 👨‍💻​ Enthusiast,fluent english speaker, communicative, hard worker and easy to get along with, making experiences, such as team work and making friends, easier [.](.)
+- 👨‍💻​ Enthusiast, fluent english speaker, communicative, hard worker and easy to get along with, making experiences, such as team work and making friends, easier.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
