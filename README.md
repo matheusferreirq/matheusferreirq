@@ -6,8 +6,6 @@
 
 - ​🧙🏽‍♂️​​ I’m a brazillian softare engenieering student looking **for personal development and knowloadge**
 
-- ​​👾​ I’m preparing to collaborate on **projects concerning softawares**
-
 - ​​​💬​ Reach me on **matheus.silva@sou.inteli.edu.br**
 
 - 👨‍💻​ Enthusiast,fluent english speaker, communicative, hard worker and easy to get along with, making experiences, such as team work and making friends, easier [.](.)
