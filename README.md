@@ -9,21 +9,23 @@
 </p>
 
 
-- ​🧙🏽‍♂️​​ I´m 18 years old, born and raised in São Paulo-SP, recently graduated from Colégio Vital Brazil, school in which I studied for 11 years. After finally being able to finish high school, I got accepted into[ **Inteli**](https://www.inteli.edu.br), aiming for a software engineering degree, personal development and knowledge gathering for a world that requires technology. 
+- ​🧙🏽‍♂️​​ I´m 18 years old, born and raised in São Paulo-SP, recently graduated from Colégio Vital Brazil, school in which I studied for 11 years. After finally being able to finish high school, I got accepted into [**Inteli**](https://www.inteli.edu.br), aiming for a software engineering degree, personal development and knowledge gathering for a world that requires technology. <p align="center"><img src="https://github.com/user-attachments/assets/607f93a2-f93b-4209-891b-870c43240768" width="25" height="25"/>
+</p>
 
-- ​​​💬​ Reach me on **matheus.silva@sou.inteli.edu.br**
 
-- 👨‍💻​ Enthusiast, fluent english speaker, communicative, hard worker and easy to get along with, making experiences, such as team work and making friends, easier.
 
-- 💫​ Fun facts: I´m an **After Effects** editor, focused on 3D and motion graphic elements, which favors my learning in other editing softwares.
+- ​​​💬​ Reach me on **matheus.silva@sou.inteli.edu.br** <p align="center"><img src="https://github.com/user-attachments/assets/00ff0d00-fe01-4b4f-b324-d0ab0ee7b476" width="45" height="35"/>
 
+
+- 👨‍💻​ Enthusiast, fluent english speaker, communicative, hard worker and easy to get along with, making experiences, such as team work and making friends, easier. <p align="center"><img src="https://github.com/user-attachments/assets/57e1f223-47c6-4de1-8e48-82f0b3033c78" width="20" height="20"/>
+
+- 💫​ Fun facts: I´m an **After Effects** editor, focused on 3D and motion graphic elements, which favors my learning in other editing softwares. <p align="center"><img src="https://github.com/user-attachments/assets/c89d97ba-8768-4d12-9a39-22e3bc6a055f" width="20" height="20"/>
 
 <br/>
 
 <p align="center">
   <img width="195" height="46" src="https://github.com/user-attachments/assets/53e55bb2-1516-4fd9-8694-c52b19071555">
 </p>
-
 
 <p align="center">
 <a href="https://linkedin.com/in/matheus-ferreira-da-silva-a13a75342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-ferreira-da-silva-a13a75342" height="30" width="40" /></a>
@@ -35,6 +37,5 @@
 <p align="center">
   <img width="250" height="46" src="https://github.com/user-attachments/assets/78bb608a-388f-4eb2-a7a1-e54563b4e5fb">
 </p>
-
 
 <p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
