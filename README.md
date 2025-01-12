@@ -8,11 +8,8 @@
   <img width="112" height="46" src="https://github.com/user-attachments/assets/46f292a0-11ad-44a9-8402-8fac3771fc36">
 </p>
 
-
 - ​🧙🏽‍♂️​​ I´m 18 years old, born and raised in São Paulo-SP, recently graduated from Colégio Vital Brazil, school in which I studied for 11 years. After finally being able to finish high school, I got accepted into [**Inteli**](https://www.inteli.edu.br), aiming for a software engineering degree, personal development and knowledge gathering for a world that requires technology. <p align="center"><img src="https://github.com/user-attachments/assets/607f93a2-f93b-4209-891b-870c43240768" width="25" height="25"/>
 </p>
-
-
 
 - ​​​💬​ Reach me on **matheus.silva@sou.inteli.edu.br** <p align="center"><img src="https://github.com/user-attachments/assets/00ff0d00-fe01-4b4f-b324-d0ab0ee7b476" width="45" height="35"/>
 
