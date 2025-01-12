@@ -2,13 +2,14 @@
 <h1 align="center"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusferreirq&label=Profile%20views&color=0e75b6&style=flat" alt="matheusferreirq" /> </p>
 
+![aboutme_00000](https://github.com/user-attachments/assets/46f292a0-11ad-44a9-8402-8fac3771fc36)
 
-
-- ​🧙🏽‍♂️​​ I’m a brazillian softare engenieering student looking **for personal development and knowloadge**
+- ​🧙🏽‍♂️​​ I’m a brazillian softare engineering student looking **for personal development and knowloadge**
 
 - ​​​💬​ Reach me on **matheus.silva@sou.inteli.edu.br**
 
 - 👨‍💻​ Enthusiast, fluent english speaker, communicative, hard worker and easy to get along with, making experiences, such as team work and making friends, easier.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
