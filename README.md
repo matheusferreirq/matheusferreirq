@@ -25,7 +25,7 @@
   <img width="250" height="46" src="https://github.com/user-attachments/assets/5e138ff3-b812-4536-b5f8-01dd9ece251a">
 </p>
 
-- Special shotout to my buddy [**Heitor**](), ...... student at Inteli, who will be joining me on this new stage of my life!
+- Special shotout to my buddy [**Heitor**](), also a student at Inteli, who will be joining and assisting me on this new stage of my life!
 
 <br/>
 <br/>
