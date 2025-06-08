@@ -31,7 +31,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=matheusferreirq&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   
-  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)  
+  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=matheusferreirq&show_icons=true&theme=radical)  
 </div>
 
 ###
