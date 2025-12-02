@@ -72,13 +72,13 @@ What drives me is the ability to turn ideas into reliable digital products, whet
 </tr>
 <tr>
 
-<!-- CARD 5 (NEXPEER) -->
+<!-- CARD 5 -->
 <td width="50%" style="vertical-align: top;">
 <div style="background: #ffffff10; border: 1px solid #44444455; border-radius: 12px; padding: 20px; margin: 10px; box-shadow: 0 0 10px #00000030;">
 <h3 align="center">📱 NexPeer (QI Tech)</h3>
 <p align="center"><b>Next.js • React • Prisma • Supabase • Tailwind</b></p>
 <p>Mobile-first P2P lending platform for QI Tech, featuring borrower/investor flows, credit scoring, dashboards and smart-contract-based operations.</p>
-<p align="center"><a href="LINK_DO_REPOSITORIO_AQUI">🔗 Repository</a></p>
+<p align="center"><a href="https://github.com/mavisanttos/NexPeer">🔗 Repository</a></p>
 </div>
 </td>
 
