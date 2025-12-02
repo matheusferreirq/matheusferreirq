@@ -7,10 +7,17 @@
   <img src="https://komarev.com/ghpvc/?username=matheusferreirq&label=Profile%20views&color=0e75b6&style=flat" alt="matheusferreirq" />
 </p>
 
-- 🌱 I’m currently studying **Software Engineering at [Inteli](https://www.inteli.edu.br)**, aiming for technical depth, real-world experience and the ability to deliver scalable digital solutions.
-- 📫 Reach me at **matheus.silva@sou.inteli.edu.br**
-- 📄 Check out my experience on [my LinkedIn](https://www.linkedin.com/in/matheusferreiradasilva-/)
-- ⚡ Fun fact: **I’m also a 3D & Motion Graphics editor (After Effects), which helps me bring visual clarity to my projects.**
+I'm Matheus, a Software Engineering student at **Inteli**, focused on building practical, scalable and well-designed solutions across **AI, fullstack development and data analysis**.
+
+I have worked on real-world projects with companies like **Google for Education, FMUSP, Atvos** and **QI Tech**, combining engineering, UX, AI and system architecture to deliver high-quality applications from end to end.
+
+What drives me is the ability to turn ideas into reliable digital products, whether through AI, predictive models, web platforms, or modern frontend experiences.
+
+### 🔥 What I’m good at
+- **AI & LLMs:** RAG, embeddings, agents, function calling, LangChain  
+- **Backend & Databases:** PostgreSQL, Supabase, Node.js, clean architecture 
+- **Data & ML:** Python, Pandas, visualizations, ML fundamentals  
+- **Design & Product:** UX flows, documentation, wireframes, motion graphics  
 
 ## 🚀 Featured Projects
 
